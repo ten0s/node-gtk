@@ -54,6 +54,7 @@
     "/lib",
     "/src",
     "/scripts",
+    "/windows",
     "binding.gyp"
   ],
   "binary": {
